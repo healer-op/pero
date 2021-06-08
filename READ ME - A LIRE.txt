@@ -1,0 +1,52 @@
+-=-=-=-=-=-=-=-=-=-=- EN -=-=-=-=-=-=-=-=-=-=-
+
+Thank you Sundeep de Jongh for buying the Pure UI Dark Theme!
+
+⚠️ IMPORTANT: In order to apply the theme, go to /var/www/pterodactyl and open the ".env" file. At line 4 (normally), modify like this: APP_THEME=pure-ui-dark
+
+Some explanations:
+You can customize this theme as you see fit by accessing the configuration in Admin --> Settings --> Pure UI Config.
+
+To change the logo of the login page, you can directly modify the file "logo.png" located here: /var/www/pterodactyl/public/themes/pure-ui-dark.
+(Attention, your image should preferably have a square shape with suggested dimmensions of at least 500px x 500px)
+
+By buying this resource, you agree to the following Terms and Conditions:
+
+    1 - There would be absolutely no refunds unless my product is not working for the versions stated in the description.​
+
+    2 - You are not allowed to sell or redistribute my resources in any way, shape or form. Your access to the resource will also be immediately revoked.​
+
+    3 - I try my best to update and maintain my products, but there is no guarantee there will be any future updates.​
+
+    4 - I am allowed to change the price of my product at any time.​
+
+    5 - I reserve the rights to change these Terms and Conditions at any time.​
+
+~ HookDonn_ "Ho0k_"
+
+
+-=-=-=-=-=-=-=-=-=-=- FR -=-=-=-=-=-=-=-=-=-=-
+
+Merci Sundeep de Jongh d'avoir acheté le thème Pure UI Dark !
+
+⚠️ IMPORTANT: Afin d'appliquer le thème, rendez-vous dans /var/www/pterodactyl puis ouvrez le fichier ".env". A la ligne 4 (normalement), modifiez comme ceci : APP_THEME=pure-ui-dark
+
+Quelques explications:
+Vous pouvez personnaliser ce thème comme bon vous semble en accèdant à la configuration dans Admin --> Settings --> Pure UI Config.
+
+Pour modifier le logo de la page de connexion, vous pouvez directement modifier le fichier "logo.png" se situant ici : /var/www/pterodactyl/public/themes/pure-ui-dark.
+(Attention, votre image doit avoir de préférence une forme carré avec des dimmensions suggérées d'au moins 500px x 500px)
+
+En achetant cette ressource, vous acceptez les conditions suivantes:
+
+    1 - Il n'y aura absolument aucun remboursement sauf si le theme ne fonctionne pas pour les versions indiquées dans la description.
+
+    2 - Vous n'êtes pas autorisé à vendre ou redistribuer le thème de quelque manière que ce soit. Votre accès à celui-ci sera également immédiatement révoqué.
+
+    3 - Je fais de mon mieux pour mettre à jour le thème, mais rien ne garantit qu'il y aura de futures mises à jour.
+
+    4 - Je suis autorisé à modifier le prix de mon produit à tout moment.
+
+    5 - Je me réserve le droit de modifier les présentes conditions à tout moment.
+
+~ HookDonn_ "Ho0k_"
